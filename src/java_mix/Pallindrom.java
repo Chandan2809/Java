@@ -13,7 +13,6 @@ public class Pallindrom {
 			int d = num%10;
 			rev =rev*10 + d;
 			num = num/10;
-		
 			
 		}
 		if (temp==rev) {
