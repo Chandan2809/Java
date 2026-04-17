@@ -15,6 +15,7 @@ public class Pallindrom {
 			num = num/10;
 			
 		}
+		
 		if (temp==rev) {
 	    System.out.print(temp + " is a pallindrome");
 	    
