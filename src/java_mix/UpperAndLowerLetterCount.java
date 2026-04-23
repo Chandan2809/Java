@@ -22,8 +22,8 @@ public static void main(String[] arg){
                 }
         }
                 
-                System.out.println("Upper" + upper);
-                System.out.println("Lower" + lower);
+                System.out.println("Upper " + upper);
+                System.out.println("Lower " + lower);
             }
         }
         
