@@ -7,8 +7,8 @@ public class Capital_Small_Letter {
 		
 		String s = "Welcome To My JAVA Class";
 		
-		String lower = " ";
-		String upper = " ";
+		String lower = "";
+		String upper = "";
 		
 		for(int i = 0; i<s.length(); i++) {
 			
