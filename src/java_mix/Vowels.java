@@ -7,7 +7,7 @@ public class Vowels {
 		
 		System.out.print("The Vowels are: ");
 		
-		for(char ch= 'a'; ch<='z'; ch++) {
+		for(char ch= 'a'; ch <'z'; ch++) {
 			
 			if(ch == 'a'|| ch == 'e'||ch == 'i'||ch == 'o'||ch == 'u') {
 				
