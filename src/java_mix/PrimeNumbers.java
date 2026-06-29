@@ -3,7 +3,7 @@ package java_mix;
 public class PrimeNumbers {
 
 	public static void main(String[] args) {
-		int num = 14;
+		int num = 13;
 		int count = 0;
 		
 		for(int i = 1; i<=num; i++) {
